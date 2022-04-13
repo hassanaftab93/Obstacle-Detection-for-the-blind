@@ -15,15 +15,15 @@ People who are blind or visually impaired often have problems in navigating unfa
 Some solutions exist for helping blind people in walking but the existing systems are not as eﬀective in helping the blind.
 The current problems are as follows:
 
-### * Simple Walking Canes:
+* Simple Walking Canes:
 
 These sticks currently used by some of the blind are simple sticks and an object has to be within range of the stick for the user to know there’s an obstacle.
 
-### * Pet Dogs:
+* Pet Dogs:
 
 Having a pet dog can be very expensive for the blind, since most of the blind people ﬁnd it hard to work.
 
-### * Location:
+* Location:
 
 Blind People usually do not know where they are and cannot let their family/friends know of their location.
 
