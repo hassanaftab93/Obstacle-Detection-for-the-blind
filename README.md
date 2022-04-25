@@ -2,7 +2,7 @@
 
 ## Introduction
 
-My project is an Arduino based module that would will help the visually impaired people to be able to sense whether there are obstacles in front of them (further than the reach of their walking cane) and easily let their family/friends know their location with the help of Internet of Things.
+My project is an Arduino based module that will help the visually impaired people to be able to sense whether there are obstacles in front of them (further than the reach of their walking cane) and easily let their family/friends know their location with the help of Internet of Things.
 
 The main target that i was hoping to achieve is to help visually impaired people. I'm designing an Arduino based project in the form of a walking cane. The cane would consist of sensors that would inform user about obstacles in the surroundings. Moreover, the cane would also keep track of user’s location. The user’s family members would be able check on user’s location via mobile messaging service, since the Arduino will be able to send google map URLs containing the location.
 
